@@ -1,6 +1,8 @@
 # sqlalchemy-challenge
 Module 10 Challenge
 
+I watched Jamie's review videos to help me when I was stuck. My code is in the climate_code file. 
+
 # Requirements
 ## Jupyter Notebook Database Connection (10 points)
 
